@@ -13,7 +13,7 @@ chmod +x Word\,Joomla\ ja Prestashop.bash
 
 NB!!! Kui skript ei tööta sisesta järgnev käsk:
 
-sed -i -e 's/\r$//' domeen2.bash
+sed -i -e 's/\r$//' Word\,Joomla\ ja Prestashop.bash
 
 3. Käivita skript:
 
