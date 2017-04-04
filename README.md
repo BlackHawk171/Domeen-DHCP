@@ -5,7 +5,7 @@
 
 1. Lae alla skript kasutades WGET käsku:
 
-https://github.com/BlackHawk171/Web/raw/master/Word%2CJoomla%20ja%20Prestashop.bash
+wget https://github.com/BlackHawk171/Web/raw/master/Word%2CJoomla%20ja%20Prestashop.bash
 
 2. Anna käivititamise õigused skriptile:
 
