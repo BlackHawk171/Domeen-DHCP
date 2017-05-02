@@ -16,4 +16,4 @@ sed -i -e 's/\r$//' domeen2.bash
 
 3. Käivita skript:
 
-\.domeen2.bash
+.\domeen2.bash
